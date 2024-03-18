@@ -1,6 +1,7 @@
 # OSM-carto/ArcMap
 An OpenStreetMap tool for ArcMap
 
+
 We can utilize this Python script with arcpy library to redrawing OpenStreetMap in ArcMap with data download from OpenStreetMap offical.
   To use this tool, simply input the related paths within the script, import it into ArcMap, and execute it. This process will generate a map resembling OpenStreetMap. As the related paths, we need to input ten paths, that include:
 -------------------------------------------------------------------------------------------------------
@@ -24,17 +25,15 @@ We can compare the results between OpenStreetMap and the redraw maps as follow:
 
 **redraw map:**
 
-![output882](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/69f880f1-5eec-4749-8f83-e7a2b87e49b9)
+![2](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/1afb4755-dae7-4ca2-a1a5-e26450562cbd)
 
 **OpenStreetMap:**
 
 ![image](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/bf9560d8-e9bf-4de7-9402-3dd55e71aa15)
 
-
 **redraw map:**
 
-![output617](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/0db17ef8-b4ee-4372-b746-f1a310f5753d)
-
+![1](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/86f28472-b05a-4900-8af8-bc28cc9c3718)
 
 **OpenStreetMap:**
 
@@ -42,6 +41,6 @@ We can compare the results between OpenStreetMap and the redraw maps as follow:
 
 **redraw map:**
 
-![output478](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/ec39da53-83cc-41e8-a244-b4aaf252c904)
+![3](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/b8ae2662-e26a-4da8-b166-ef8ec5e2e99a)
 
 Just try it and use it in ArcMap!
