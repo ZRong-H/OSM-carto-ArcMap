@@ -3,11 +3,8 @@ An OpenStreetMap tool for ArcMap
 
 
 We can utilize this Python script with arcpy library to redrawing OpenStreetMap in ArcMap with data download from OpenStreetMap offical.
-  To use this tool, simply input the related paths within the script, import it into ArcMap, and execute it. This process will generate a map resembling OpenStreetMap. As the related paths, we need to input ten paths, that include:
--------------------------------------------------------------------------------------------------------
-|  input polygon path, input line path,  input point path, output polygon path, output line path,     |
-|  output point path, polygon's style path, line's style path, point's style path, output png's path  |
--------------------------------------------------------------------------------------------------------
+  To use this tool, simply input the related paths within the script, import it into ArcMap, and execute it. This process will generate a map resembling OpenStreetMap. As the related paths, we need to input ten paths, that include: input polygon path, input line path, input point path, output polygon path, output line path, output point path, polygon's style path, line's style path, point's style path, output png's path.
+
 You need to input the corresponding path at the location indicated in the image below：
 ![image](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/3211c355-b12a-48f2-b150-a33373fec781)
 ![image](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/b38aab0b-a87a-4edf-ad56-ffb1b2572c7b)
@@ -19,28 +16,25 @@ However, this code may not completely restore the map to its original OpenStreet
 
 We can compare the results between OpenStreetMap and the redraw maps as follow:
 
-**OpenStreetMap:**
-
+## OpenStreetMap:<br>
 ![image](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/68f5909d-db50-4b34-9253-2db6ec2a8669)
 
-**redraw map:**
+## redraw map:<br>
+![2](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/cbe91d74-827e-471f-a980-a27612c0d94b)
 
-![2](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/1afb4755-dae7-4ca2-a1a5-e26450562cbd)
-
-**OpenStreetMap:**
+## OpenStreetMap:<br>
 
 ![image](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/bf9560d8-e9bf-4de7-9402-3dd55e71aa15)
 
-**redraw map:**
+## redraw map:<br>
 
-![1](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/86f28472-b05a-4900-8af8-bc28cc9c3718)
+![1](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/1f94f9d3-1d17-4e52-aea2-5e71d4e29941)
 
-**OpenStreetMap:**
+## OpenStreetMap:<br>
 
 ![image](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/f4fe3432-82af-46bb-a386-dea500a7c489)
 
-**redraw map:**
-
-![3](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/b8ae2662-e26a-4da8-b166-ef8ec5e2e99a)
+## redraw map:<br>
+![3](https://github.com/ZRong-H/OSM-carto-ArcMap/assets/105121100/898ba126-928b-43f2-b7e3-dc2572544d60)
 
 Just try it and use it in ArcMap!
